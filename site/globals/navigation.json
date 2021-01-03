@@ -9,12 +9,12 @@
             "url": "/about/"
         },
         {
-            "label": "Blog",
-            "url": "/blog/"
+            "label": "Stack",
+            "url": "/stack/"
         },
         {
-            "label": "Contact",
-            "url": "/contact/"
+            "label": "Blog",
+            "url": "/blog/"
         }
     ]
 }
